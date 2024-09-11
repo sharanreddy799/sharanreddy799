@@ -1,16 +1,78 @@
-## Hi there 👋
+Hi There ✌🏻  Sai Sharan Karam here 🌟
 
+👨‍💻 **Software Engineer | Cloud Native Developer | DevOps Specialist**  
+Nashville, TN | [Email](mailto:saisharank2008@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saisharankaram) | [GitHub](https://github.com/sharanreddy799) | [Portfolio](https://saisharankaram-github-io.vercel.app)
 
-- 🔭 I’m currently working on studying all the knowledge out there to make this world a better place
-- 🌱 I’m currently learning GenAI
-- 👯 I’m looking to collaborate on any project which involves good amount of problem solving and multi threading
-- 🤔 I’m looking for help with Networking , to open the right door where i can prove myself
-- 💬 Ask me about java, IDEs and SOA 
-- 📫 How to reach me: Check out my website and drop me Hi - https://saisharankaram-github-io.vercel.app/contact 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The Office is best Series of all time and Valorant is the best game ever to be created .
+---
 
-- 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) !![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![PUPPET](https://img.shields.io/badge/Puppet-02303A.svg?style=for-the-badge&logo=Puppet&logoColor=white&color=%23FFAE1A) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
- 
+## 💼 **Professional Summary**
+
+I am an experienced Software Development Engineer with expertise in designing scalable, high-performance, cloud-native applications. I have a passion for building and optimizing systems that handle millions of transactions and are integral to modern enterprises. I focus on microservices, cloud technologies, and DevOps practices to deliver reliable, high-quality software solutions.
+
+---
+
+## 🛠️ **Technical Skills**
+
+![Java](https://img.shields.io/badge/Java-8%20%26%2017-blue?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-brightgreen?logo=spring&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/React-17.x-blue?logo=react&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-EC2%2C%20S3%2C%20RDS-yellow?logo=amazonaws&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=googlecloud&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-20.x-blue?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.x-blue?logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.x-blue?logo=postgresql&logoColor=white) 
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.x-yellow?logo=elasticsearch&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4.x-brightgreen?logo=mongodb&logoColor=white) 
+![Multi-threading](https://img.shields.io/badge/Multi--threading-Java%20%7C%20Python-blue?logo=java&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-Spring%20Boot%2C%20Docker-blue?logo=springboot&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%2C%20Git%2C%20Docker-blue?logo=jenkins&logoColor=white)
+
+---
+
+## 📚 **Publication**
+
+- **Data Transfer Methods and Strategies: Unified Replication Model Using Tree**  
+  Published in the Proceedings of the International Conference on Advances in Computing Research (ACR'24). [Link to Publication](https://link.springer.com/book/10.1007/978-3-031-56950-0)
+
+---
+
+## 🌟 **Key Projects**
+
+- **Personal Portfolio**  
+  Developed and deployed a personal portfolio using **Next.js** and **Vercel**. [View Portfolio](https://saisharankaram-github-io.vercel.app)
+
+- **Celeb Like Me**  
+  Created a **CNN-based image recognition application** that matches users' faces with Hollywood celebrities, achieving a **93.8% accuracy rate**. [View Project](https://github.com/sharanreddy799/CelebLikeMe)
+
+- **Online Learning Management System**  
+  Built a comprehensive learning platform with role-based access, course management, and secure authentication. [View Project](https://github.com/sharanreddy799/Online-Learning-Management)
+
+---
+
+## 🎓 **Education**
+
+**Master of Computer Science**  
+Troy University, Troy, AL  
+*Aug 2022 - May 2024*  
+GPA: 3.3 | Courses: Distributed Systems, Machine Learning, Data Mining, Software Engineering, Advanced Algorithms
+
+---
+
+## 📈 **GitHub Stats**
+
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanreddy799&show_icons=true&theme=dark)
+
+---
+
+## 📬 **Contact Me**
+
+Have any questions or want to collaborate? Feel free to reach out to me!  
+👉 [Contact Me Here](https://saisharankaram-github-io.vercel.app/contact)
+
+---
+
+Feel free to explore my repositories or connect with me to collaborate on exciting projects!
+
