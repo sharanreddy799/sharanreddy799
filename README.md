@@ -1,7 +1,7 @@
 Hi There ✌🏻  Sai Sharan Karam here 🌟
 
 👨‍💻 **Full Stack Software Engineer | Cloud Native Developer | JAVA Specialist**  
-Nashville, TN | [Email](mailto:saisharank2008@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saisharankaram) | [GitHub](https://github.com/sharanreddy799) | [Portfolio](https://saisharankaram-github-io.vercel.app)
+Nashville, TN | [Email](mailto:saisharank2008@gmail.com) 
 
 
 ---
@@ -72,15 +72,6 @@ I am an experienced Software Development Engineer with expertise in designing sc
 
 ---
 
-## 🎓 **Education**
-
-**Master of Computer Science**  
-Troy University, Troy, AL  
-*Aug 2022 - May 2024*  
-GPA: 3.3 | Courses: Distributed Systems, Machine Learning, Data Mining, Software Engineering, Advanced Algorithms
-
----
-
 ## 📈 **GitHub Stats**
 
 ![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanreddy799&show_icons=true&theme=dark)
@@ -93,6 +84,7 @@ Have any questions or want to collaborate? Feel free to reach out to me!
 👉 [Contact Me Here](https://saisharankaram-github-io.vercel.app/contact)
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/sharanreddy799/count.svg)
 
 Feel free to explore my repositories or connect with me to collaborate on exciting projects!
 
