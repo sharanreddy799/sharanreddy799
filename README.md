@@ -1,7 +1,8 @@
 Hi There ✌🏻  Sai Sharan Karam here 🌟
 
-👨‍💻 **Software Engineer | Cloud Native Developer | DevOps Specialist**  
+👨‍💻 **Full Stack Software Engineer | Cloud Native Developer | JAVA Specialist**  
 Nashville, TN | [Email](mailto:saisharank2008@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saisharankaram) | [GitHub](https://github.com/sharanreddy799) | [Portfolio](https://saisharankaram-github-io.vercel.app)
+
 
 ---
 
@@ -13,22 +14,41 @@ I am an experienced Software Development Engineer with expertise in designing sc
 
 ## 🛠️ **Technical Skills**
 
-![Java](https://img.shields.io/badge/Java-8%20%26%2017-blue?logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-brightgreen?logo=spring&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/React-17.x-blue?logo=react&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-EC2%2C%20S3%2C%20RDS-yellow?logo=amazonaws&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=googlecloud&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-20.x-blue?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.x-blue?logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.x-blue?logo=postgresql&logoColor=white) 
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.x-yellow?logo=elasticsearch&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4.x-brightgreen?logo=mongodb&logoColor=white) 
-![Multi-threading](https://img.shields.io/badge/Multi--threading-Java%20%7C%20Python-blue?logo=java&logoColor=white) 
-![Microservices](https://img.shields.io/badge/Microservices-Spring%20Boot%2C%20Docker-blue?logo=springboot&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%2C%20Git%2C%20Docker-blue?logo=jenkins&logoColor=white)
+## 🛠️ **Technical Skills**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux Server](https://img.shields.io/badge/Linux_Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Multi-threading](https://img.shields.io/badge/Multi--threading-%230db7ed.svg?style=for-the-badge&logo=java&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23007396.svg?style=for-the-badge&logo=rest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%2320232a.svg?style=for-the-badge&logo=microservices&logoColor=%2361DAFB)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%2C%20Git%2C%20Docker-%23232F3E.svg?style=for-the-badge&logo=ci-cd&logoColor=white)
+
+![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Advanced Queue Mechanisms](https://img.shields.io/badge/Advanced_Queue_Mechanisms-%23316c9c.svg?style=for-the-badge&logo=queue&logoColor=white)
+
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+
 
 ---
 
