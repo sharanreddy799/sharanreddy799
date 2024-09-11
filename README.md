@@ -11,9 +11,6 @@ Nashville, TN | [Email](mailto:saisharank2008@gmail.com)
 I am an experienced Software Development Engineer with expertise in designing scalable, high-performance, cloud-native applications. I have a passion for building and optimizing systems that handle millions of transactions and are integral to modern enterprises. I focus on microservices, cloud technologies, and DevOps practices to deliver reliable, high-quality software solutions.
 
 ---
-
-## 🛠️ **Technical Skills**
-
 ## 🛠️ **Technical Skills**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
