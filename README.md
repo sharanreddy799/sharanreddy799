@@ -17,33 +17,40 @@ I am an experienced Software Development Engineer with expertise in designing sc
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/Linux_Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-%23FFA500.svg?style=for-the-badge&logo=test&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=%2361DAFB)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23958D6A.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
 ![Multi-threading](https://img.shields.io/badge/Multi--threading-%230db7ed.svg?style=for-the-badge&logo=java&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23007396.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%2320232a.svg?style=for-the-badge&logo=microservices&logoColor=%2361DAFB)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%2C%20Git%2C%20Docker-%23232F3E.svg?style=for-the-badge&logo=ci-cd&logoColor=white)
-
-![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Advanced Queue Mechanisms](https://img.shields.io/badge/Advanced_Queue_Mechanisms-%23316c9c.svg?style=for-the-badge&logo=queue&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%2320232a.svg?style=for-the-badge&logo=microdotblog&logoColor=%2361DAFB)
+![Advanced Queue Mechanisms](https://img.shields.io/badge/Advanced_Queue_Mechanisms-%23FF6C37.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%2C%20Git%2C%20Docker-%23232F3E.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 
 
 
